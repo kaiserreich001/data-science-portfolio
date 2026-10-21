@@ -1,0 +1,8 @@
+title: SONG Xuhuiyang | Data Science Portfolio
+description: A reproducible data science project portfolio.
+theme: jekyll-theme-primer
+markdown: kramdown
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+header_pages: []
