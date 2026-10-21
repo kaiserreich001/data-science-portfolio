@@ -25,7 +25,7 @@ I am a data science learner interested in statistical reasoning, machine learnin
 
 ## Project showcase
 
-<div class="project-card" id="project">
+<div class="project-card" id="project" markdown="1">
 
 ### Study Habits and Academic Performance
 
